@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the London petition.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75433</idno>
+            <idno type="STC">Wing A3419</idno>
+            <idno type="STC">Thomason E130_18</idno>
+            <idno type="STC">ESTC R20791</idno>
+            <idno type="EEBO-CITATION">99866928</idno>
+            <idno type="PROQUEST">99866928</idno>
+            <idno type="VID">119217</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75433)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119217)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E130[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the London petition.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "frivolous petion [i.e. petition?] of" is inserted following "an answer to the" "published this Decemb: 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Londoners' petition.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:119217:1" rendition="simple:additions"/>
+            <head>An Anſwer to the <hi>London</hi> PETITION.</head>
+            <opener>
+               <salute>You Gentlemen and Citizens,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Oth you and your requeſt are welcome to Us, and cannot faile of a kind reception here, where your former merits, and your preſent good inten<g ref="char:EOLhyphen"/>tions are ſo well knowne. It is naturall in the Patient to ſeeke cure of his diſeaſe, and to move the Phyſi<g ref="char:EOLhyphen"/>tion to uſe his beſt skill, and it is commendable in you under your ſufferings to apply your ſelves to Us for eaſe; and we hope it is not meere im<g ref="char:EOLhyphen"/>patience urges you to ſeeke things impoſſible, or unjuſt: Your prayers for peace are Honourable, ſo was <hi>Jacobs</hi> wife for children; yet when ſhee cried, <hi>Give me children or I die,</hi> ſhee was too blame; for ſhe ſought that of <hi>Jacob,</hi> which <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> had no power to give, and ſhe ſought the ſame
+<pb n="2" facs="tcp:119217:2"/>with ſuch violence, as <hi>Jacob</hi> ought not to have heard. But we will onely conceive, that without all impatience, you ſeeke of Us Peace, ſo farre as we can procure it, and not abſolutely, for it de<g ref="char:EOLhyphen"/>pends not ſo much upon Us, as the King, and it is not in Us to draw the King to a Peace, except His Majeſty be as inclinable to it, as wee are. And we will conceive alſo that you ſeeke not Peace nakedly, except it come along with Truth, Righteouſneſſe, and Honour, and of ſuch a Peace we are as zealous as you can wiſh Us to be; and for other Peace, if we ſhould wholly ſubmit to the Kings partie, without all conditions for fu<g ref="char:EOLhyphen"/>ture ſecurity, ſuch a ſubmiſſion to that Partie would be no redreſſe but an increaſe of your pre<g ref="char:EOLhyphen"/>ſent ſufferings. Wee are intruſted in this by the whole Kingdome, and that truſt wee muſt not breake upon the ſolicitation of any part of the kingdome: You are a conſiderable part of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> but you are not whole <hi>London,</hi> and <hi>London</hi> is a conſiderable part of this kingdome, but it is not the whole kingdome, and we, according to our truſt, muſt looke upon the whole kingdome: but it may be, that you ſee more than the whole kingdome, and may out of that ſight offer ſome thing to Us for the eaſe and reliefe of the whole kingdome; in this we will not gaineſay you, it is poſſible that ſome cleere way and forme of a juſt, ſafe, and honourable Accommo<g ref="char:EOLhyphen"/>dation
+<pb n="3" facs="tcp:119217:2"/>may be opened, and diſcovered to you, which hath not yet beene found out by Us; if this be ſo, we deſire you cordially, and in a friendly manner to communicate your apprehenſions, and underſtandings of this affaire to us, and by our ſudden and full embraſement there of, you ſhall ſoone finde how deere, and pre<g ref="char:EOLhyphen"/>cious the face, the very name or ſound of Peace is to us: In the meane time we deſire you to reſt aſſured, that if there be any defect in us, it muſt needs be in point of underſtanding, it can<g ref="char:EOLhyphen"/>not be in point of affection. No men living can be in affection more devoted to ſafe Peace then we are. And further, we deſire you not to cenſure us of any defect at all, no, not ſo much as in under<g ref="char:EOLhyphen"/>ſtanding, except you can reveale to us ſome better way, then wee have hitherto aſſayed: No Ac<g ref="char:EOLhyphen"/>commodation can be, but wee muſt leave ſome<g ref="char:EOLhyphen"/>thing to the <hi>King</hi> upon truſt, and if the Accom<g ref="char:EOLhyphen"/>modation be even, the <hi>King</hi> will not deny ſome truſt to us, but in this helpe to adviſe us how farre we ſhall truſt the <hi>King,</hi> and how far we ſhall truſt the <hi>Kings</hi> partie; were the <hi>King</hi> utterly diſ<g ref="char:EOLhyphen"/>ingaged from all parties, perhaps wee would wholly truſt the <hi>King,</hi> and deſire no truſt at all to be left in us from his Majeſtie: but we ſee in the <hi>Kings</hi> partie, ſome that have a ſtrange power in his affection, yea a greater power farre than wee have, and yet they are knowne to be deepely in
+<pb n="4" facs="tcp:119217:3"/>raged Papiſts, violently ingaged Delinquents: and if you would wholly put your ſelves and the kingdome into the truſt of ſuch a partie, wee are bound to withſtand it, as much as wee can, The <hi>King</hi> proteſts to hate Popery, and diſavowes all thoughts of Arbitrarie Rule, yet wee know all, how far hee is addicted to Papiſts, and Malignant haters of Parliaments: and ſince we cannot ſub<g ref="char:EOLhyphen"/>mit to the <hi>King,</hi> but wee muſt ſubmit to His Partie, whom He preferres before us, what advantage is it to us, whether Hee be in heart the ſelſeſame, as His Partie is, or not? The truth is, wee and the <hi>Kings</hi> party are ſo dia<g ref="char:EOLhyphen"/>metrically oppoſite in Religion and State both, that he cannot protect both, if they are his friends, we are his enemies; if wee are his friends, they are queſtionleſſe his enemies; if he ſhield them from our juſtice, he muſt expoſe us to their inju<g ref="char:EOLhyphen"/>ſtice; either they muſt judge us, or we them, no middle way can be ſafe; nor deſerve the name of Accommodation, it muſt prove inevitable con<g ref="char:EOLhyphen"/>fuſion in the end. Many yeares wee have already ſtruggled together, and they have all the while found more favour from the Court then wee; but now we are more implacablie exaſperated by blood, one againſt the other, and they will not lay downe Armes before us, nor ought wee be<g ref="char:EOLhyphen"/>fore them, and if both lay downe Armes toge<g ref="char:EOLhyphen"/>ther,
+<pb n="3" facs="tcp:119217:3"/>yet little ſafety will be to us; for our Reli<g ref="char:EOLhyphen"/>gion and profeſſion will <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inde us truly to per<g ref="char:EOLhyphen"/>forme, but theirs will <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inde them to betray us, and ſince they are greater in the <hi>Kings</hi> favour, and are looſe from Oaths, when we are diſcountenan<g ref="char:EOLhyphen"/>ced, and our hands are tyed from defence, what equalitie of Treatie is there? We will ſpeak now to you, as we would to the whole bodie of Eng<g ref="char:EOLhyphen"/>land; if you prefer their cauſe and beeing before ours, ſpeak it out more plainlie: if you wiſh better to us, and think better of us, be wary of ſuch Ac<g ref="char:EOLhyphen"/>commodation, as may render us upon unequall termes into their hands. You will ſay we have re<g ref="char:EOLhyphen"/>ceived other Petitions with more favour, when they have more concurred with us in their Votes, We confeſſe and juſtifie it: for when the people have encouraged us by Petitions, anſwering to our Votes, and have invited us to be more hardy in ſearching their wounds, fearing our too much tenderneſſe in their owne caſe, we could not but reſent a better diſpoſition and capacitie of cure, then now we take notice of in ſuch contrarie Pe<g ref="char:EOLhyphen"/>titions, as ſeeme to expreſſe a diſtruſt of us, though indeed your profeſſions be cleane contrary. Yet to deale plainlie with you, and all other Petiti<g ref="char:EOLhyphen"/>oners: We love not to be ſollicited at all by the People in any caſe whatſoever, except when wee doe manifeſtly faile of our dutie, either out of too
+<pb n="6" facs="tcp:119217:4"/>much feare, or too much preſumption. Howſoe<g ref="char:EOLhyphen"/>ver for the preſent goe peaceablie home, and if you think us worthie of that truſt which you have hitherto repoſed in us, leave to us to conſider of this your Petition with all its circumſtances, and aſſure your ſelves, wee will condeſcend to the more hazzard, and depart ſomething the more from our owne due in our demands from his Ma<g ref="char:EOLhyphen"/>jeſtie for your ſakes. And if you prefer your own judgements before ours, proceed to advertiſe us lovingly and fairelie, wherein wee may doe you more good, or how we may draw nearer to a pru<g ref="char:EOLhyphen"/>dent Accommodation, and impart more particu<g ref="char:EOLhyphen"/>larly your open ſence thereof. Howſoever wee deſire you to addreſſe your ſelves to his Majeſty in the ſame manner as you have done to us, unleſs you condemne us as more indiſpoſed to peace then his Majeſtie is, and let your requeſt be, that in this valuation of his Party, and his Parliament, He would be equally pleaſed to condeſcend, and depart from his former rigor of Termes, as you expect from us, or elſe we muſt pronounce you in this unequall. And for the ſumme of all, let your deſired Accommodation be ſuch, as ſhall main<g ref="char:EOLhyphen"/>taine us to be the <hi>Kings</hi> legall Parliament, and a legall Parliament to be the <hi>Kings</hi> higheſt Court of Judicature, and the higheſt Judicature of the <hi>King</hi> fitteſt to determine all publike diſputes; and
+<pb n="7" facs="tcp:119217:4"/>beſt diſpoſed to mercy, as well as juſtice; and policy, as well as Law: and without more adoe your wiſhed Accommodation is perfected, and agreed upon.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
